@@ -37,7 +37,7 @@ CareFlow is the leading ePMA supplier in England, deployed across 33 NHS Trusts 
 ---
 
 ## Files
-- [CareFlow System Analysis](System C CareFlow Analysis.pdf)
+- ![CareFlow System Analysis](System C CareFlow Analysis.pdf)
 
 ---
 
